@@ -1,0 +1,10 @@
+Everything in linux is a file or directory
+Linux uses single rooted,inverted tree like structure
+In linux root directory is represent with / (forword slash)
+/root it is ome directory for root user 
+/sbin 
+/dev 
+/var 
+/mnt 
+/etc
+/usr
